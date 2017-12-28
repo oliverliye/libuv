@@ -62,8 +62,6 @@ LOCAL_SRC_FILES:= \
 	src/unix/sysinfo-memory.c \
 
 LOCAL_MODULE:= libuv
-LOCAL_MODULE_TAGS:=tests
-
 
 include external/libcxx/libcxx.mk
 
